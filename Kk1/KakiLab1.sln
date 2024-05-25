@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KakiLab1", "KakiLab1.pyproj", "{AC1A28F5-4DFF-4871-9E9E-A7B277479112}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kaki2", "..\Kaki2\Kaki2.pyproj", "{9F68BA3C-1AF0-4379-BB87-3239FAD5101D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Renamer", "..\Renamer\Renamer.pyproj", "{317E2679-B440-44C3-A7D5-4625E9617805}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KakiLab3", "..\KakiLab3\KakiLab3.pyproj", "{F139A339-39C8-46F7-8414-06D83DA81D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1A28F5-4DFF-4871-9E9E-A7B277479112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1A28F5-4DFF-4871-9E9E-A7B277479112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F68BA3C-1AF0-4379-BB87-3239FAD5101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F68BA3C-1AF0-4379-BB87-3239FAD5101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317E2679-B440-44C3-A7D5-4625E9617805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317E2679-B440-44C3-A7D5-4625E9617805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F139A339-39C8-46F7-8414-06D83DA81D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F139A339-39C8-46F7-8414-06D83DA81D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D8793CC-4E57-4198-95DD-466AEB8A7FA9}
+	EndGlobalSection
+EndGlobal
